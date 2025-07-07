@@ -1,0 +1,1 @@
+print("CR7 is the GOAT")
